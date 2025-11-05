@@ -11,7 +11,7 @@ int main() {
     scanf("%d", &kelipatan);
 
     printf("Masukkan simbol : ");
-    scanf(" %c", &simbol); // spasi sebelum %c untuk menangkap karakter dengan benar
+    scanf(" %c", &simbol); 
 
     printf("_________________________________________\n\n");
 
@@ -25,4 +25,5 @@ int main() {
     }
 
     return 0;
+
 }
